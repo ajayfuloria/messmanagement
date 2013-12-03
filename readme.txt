@@ -1,0 +1,1 @@
+This is a project undertaken by A Raghuram, Niraj Kalra and Ajay Fuloria. The aim is to develop an android based POS system for a restaurant. The back end is MySQL and CodeIgniter. The front end is both web based and android based.
